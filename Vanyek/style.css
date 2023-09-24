@@ -24,3 +24,7 @@ table, th, td{
 th{
     font-size: x-large;
 }
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
