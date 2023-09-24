@@ -3,12 +3,14 @@ body{
     background-position: center;
     height: 2000px;
 }
+
 p, h1{
     text-align: center;
     font-style: oblique;
     text-shadow: 2px 2px rgba(0, 0, 0, 0.19);
     color: white;
 }
+
 img{
     max-width:  100%;
     height: auto;
@@ -31,4 +33,13 @@ div.container {
     text-align: center;
     padding: 10px 20px;
     font-weight: 30px;
-  }
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+table{
+    background-color: rgba(99, 129, 138, 0.5);
+}
