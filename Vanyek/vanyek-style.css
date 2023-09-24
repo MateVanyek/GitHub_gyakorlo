@@ -1,6 +1,17 @@
+p, h1{
+    text-align: center;
+    font-style: oblique;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.19);
+}
 img{
     max-width:  100%;
     height: auto;
+}
+
+div{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 div.kep{
