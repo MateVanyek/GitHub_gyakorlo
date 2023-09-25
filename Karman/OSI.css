@@ -1,3 +1,21 @@
+.kep {
+    display: block;
+    text-align: right;
+    margin:auto;
+}
+.szoveg{
+    width: 50%;
+}
 h1{
     text-align: center;
+}
+.tartalom {
+    display: flex;
+    align-items: center;
+}
+.kepek{
+    text-align: center;
+}
+.k{
+    margin: 30px;
 }
