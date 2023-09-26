@@ -9,4 +9,18 @@ h1{
 
 p{
     text-align: left;
+    width: 70%;
+}
+
+.kep {
+    display: block;
+    text-align: right;
+    margin:auto;
+    float: right;
+
+}
+
+.tartalom {
+    display: flex;
+    align-items: inherit;
 }
